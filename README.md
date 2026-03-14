@@ -32,7 +32,6 @@
 - [📈 Key Findings](#-key-findings)
 - [🛠️ Tech Stack](#️-tech-stack)
 - [▶️ How to Run](#️-how-to-run)
-- [🔭 Next Steps](#-next-steps)
 - [👤 Author](#-author)
 
 ---
