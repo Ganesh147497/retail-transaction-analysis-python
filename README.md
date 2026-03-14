@@ -31,7 +31,6 @@
 - [🔍 Notebook Sections](#-notebook-sections)
 - [📈 Key Findings](#-key-findings)
 - [🛠️ Tech Stack](#️-tech-stack)
-- [▶️ How to Run](#️-how-to-run)
 - [👤 Author](#-author)
 
 ---
@@ -258,40 +257,7 @@ Visualised as: segment share pie · avg spend bar · recency vs monetary scatter
 | `seaborn` | ≥ 0.11 | Heatmaps, statistical plots |
 | `openpyxl` | ≥ 3.0 | Reading `.xlsx` Excel files |
 
----
 
-## ▶️ How to Run
-
-### Prerequisites
-- Python `3.8+`
-- Jupyter Notebook or JupyterLab
-
-### Steps
-
-**1 · Clone the repository**
-```bash
-git clone https://github.com/yourusername/qvi-retail-analytics.git
-cd qvi-retail-analytics
-```
-
-**2 · Install dependencies**
-```bash
-pip install pandas numpy matplotlib seaborn openpyxl
-```
-
-**3 · Launch Jupyter**
-```bash
-jupyter notebook QVI_Data_Analytics.ipynb
-```
-
-**4 · Run all cells**
-
-Go to **Kernel → Restart & Run All**
-
-> 💡 The first cell auto-installs all required packages — no manual setup needed.
-
-
----
 
 ## 👤 Author
 
